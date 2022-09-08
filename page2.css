@@ -14,14 +14,12 @@ header a{
     align-items: center;
     border-radius: 25px;
     padding: 10px;
-}
-.div1, .div2, .div3, .div4, .div5{
     height: 300px;
     width: 170px;
     background-color: pink;
     font-size: 1.5rem;
 }
-.div1 img, .div2 img, .div3 img, .div4 img, .div5 img{
+.section1 div img{
     height: 100px;
     width: 100px;
 }
