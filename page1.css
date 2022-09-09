@@ -2,6 +2,7 @@ header, .section2{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 header a{
     font-size: 1.2rem;
